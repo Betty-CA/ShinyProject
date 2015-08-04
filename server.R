@@ -1,3 +1,4 @@
+library(shiny)
 ## predict height
 ## if is over age 25, the height will be the same 
 ## otherwise, male will grow 2cm every year before 25 and female grow 1cm
