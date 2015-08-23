@@ -13,6 +13,4 @@ Project of Developing Data Products
 3. Input name, gender, age, height and width and push the "submit" button;
 4. In the output area will print what you input, and the predicted height according to your age and gender, the BMI if you check the BMI and a plot that show US women height and weight and a line indicate your inputted height.
 
-# Problem
-I have problem to install devtools maybe because I am running windows XP.So I can't deploy my application to shinyapp.io.
 
